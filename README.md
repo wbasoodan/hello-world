@@ -2,4 +2,4 @@
 Welcome to my First Repository
 
 
-I love :coffee:etc.
+I love :coffee:.
